@@ -1,0 +1,1 @@
+document.getElementById("revealBtn").onclick=()=>document.getElementById("results").style.display="block";
